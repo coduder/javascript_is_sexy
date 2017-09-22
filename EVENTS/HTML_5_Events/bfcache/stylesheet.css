@@ -1,0 +1,9 @@
+#blueDiv {
+    float: right;
+    position: relative;
+}
+
+#myDiv {
+    float: left;
+    position: relative;
+}
